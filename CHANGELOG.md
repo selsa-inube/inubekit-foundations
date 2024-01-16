@@ -1,3 +1,15 @@
+# v0.1.1 (Mon Jan 15 2024)
+
+#### 🐛 Bug Fix
+
+- feat: include files list in package.json ([@wfercanas](https://github.com/wfercanas))
+
+#### Authors: 1
+
+- Fernando Cañas ([@wfercanas](https://github.com/wfercanas))
+
+---
+
 # v0.1.0 (Mon Jan 15 2024)
 
 #### 🚀 Enhancement
