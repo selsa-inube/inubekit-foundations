@@ -1,6 +1,7 @@
 {
   "name": "@inubekit/foundations",
   "description": "Library for publishing all Design System Foundations",
+  "author": "inube",
   "private": false,
   "version": "0.0.2",
   "type": "module",
