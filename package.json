@@ -13,7 +13,8 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
     "prepare": "husky install",
-    "auto": "auto"
+    "auto": "auto",
+    "release": "auto shipit"
   },
   "exports": {
     ".": {
