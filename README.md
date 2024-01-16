@@ -1,3 +1,7 @@
-# IDS - Starter
+# Foundations
 
-This project is a starter repository that can be used to develop and publish new Inube Design System components.
+This package contains all standard Inube Design System tokens for:
+
+- Colors
+- Typography
+- Spacing
