@@ -1,3 +1,19 @@
+# v0.3.0 (Wed Jan 17 2024)
+
+#### 🚀 Enhancement
+
+- docs: update readme with instructions [#11](https://github.com/selsa-inube/inubekit-foundations/pull/11) ([@wfercanas](https://github.com/wfercanas))
+
+#### 🐛 Bug Fix
+
+- feat: build script deletes dist before building [#12](https://github.com/selsa-inube/inubekit-foundations/pull/12) ([@wfercanas](https://github.com/wfercanas))
+
+#### Authors: 1
+
+- Fernando Cañas ([@wfercanas](https://github.com/wfercanas))
+
+---
+
 # v0.2.0 (Wed Jan 17 2024)
 
 #### 🚀 Enhancement
