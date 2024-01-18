@@ -3,7 +3,7 @@
   "description": "Library for publishing all Design System Foundations",
   "author": "inube",
   "private": false,
-  "version": "0.1.1",
+  "version": "0.2.0",
   "type": "module",
   "main": "dist/index.es.js",
   "scripts": {
@@ -15,7 +15,9 @@
     "build-storybook": "storybook build",
     "prepare": "husky install",
     "auto": "auto",
-    "release": "auto shipit"
+    "changelog": "npm run auto changelog",
+    "version": "npm run build",
+    "postversion": "git push --follow-tags && npm run auto release"
   },
   "exports": {
     ".": {
