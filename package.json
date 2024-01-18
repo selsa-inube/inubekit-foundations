@@ -17,8 +17,7 @@
     "auto": "auto",
     "changelog": "npm run auto changelog",
     "version": "npm run build",
-    "postversion": "git push --follow-tags && npm run auto release",
-    "publish": "npm publish"
+    "postversion": "git push --follow-tags && npm run auto release"
   },
   "exports": {
     ".": {
