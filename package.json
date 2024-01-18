@@ -16,7 +16,7 @@
     "prepare": "husky install",
     "auto": "auto",
     "changelog": "npm run auto changelog",
-    "version": "npm run build",
+    "version": "rm -rf dist && npm run build",
     "postversion": "git push --follow-tags && npm run auto release"
   },
   "exports": {
