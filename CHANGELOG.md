@@ -1,3 +1,19 @@
+# v0.2.0 (Wed Jan 17 2024)
+
+#### 🚀 Enhancement
+
+- Fc/release [#10](https://github.com/selsa-inube/inubekit-foundations/pull/10) ([@wfercanas](https://github.com/wfercanas))
+
+#### 🐛 Bug Fix
+
+- docs: update readme with instructions ([@wfercanas](https://github.com/wfercanas))
+
+#### Authors: 1
+
+- Fernando Cañas ([@wfercanas](https://github.com/wfercanas))
+
+---
+
 # v0.1.1 (Mon Jan 15 2024)
 
 #### 🐛 Bug Fix
