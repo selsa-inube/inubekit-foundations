@@ -15,7 +15,10 @@
     "build-storybook": "storybook build",
     "prepare": "husky install",
     "auto": "auto",
-    "release": "auto shipit"
+    "changelog": "npm run auto changelog",
+    "version": "npm run build",
+    "postversion": "git push --follow-tags && npm run auto release",
+    "publish": "npm publish"
   },
   "exports": {
     ".": {
