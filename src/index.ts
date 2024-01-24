@@ -1,3 +1,2 @@
-export { color } from "./colors";
-export { spacing } from "./spacing";
-export { typography } from "./typography";
+//tokens
+export {inube} from "./tokens/index"
