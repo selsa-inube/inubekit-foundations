@@ -1,3 +1,16 @@
+# v0.3.1 (Wed Jan 24 2024)
+
+#### 🐛 Bug Fix
+
+- Export all tokens in an object called `inube` [#14](https://github.com/selsa-inube/inubekit-foundations/pull/14) ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+- Check all `Color` tokens are correct compared to Figma [#13](https://github.com/selsa-inube/inubekit-foundations/pull/13) ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+#### Authors: 1
+
+- Januar Asprilla  ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+---
+
 # v0.3.0 (Wed Jan 17 2024)
 
 #### 🚀 Enhancement
