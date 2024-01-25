@@ -2,10 +2,8 @@ import { color } from "./colors";
 import { spacing } from "./spacing";
 import { typography } from "./typography";
 
-const inube = {
+export const presente = {
   color,
   spacing,
   typography,
 };
-
-export { inube };
