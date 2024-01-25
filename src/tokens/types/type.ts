@@ -1,3 +1,3 @@
-import { inube } from "..";
+import { inube } from "@shared/tokens";
 
 export type Themed = typeof inube;

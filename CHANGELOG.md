@@ -1,3 +1,23 @@
+# v1.0.1 (Thu Jan 25 2024)
+
+#### 🐛 Bug Fix
+
+- Create `presente` theme and export it in an object called `presente` [#17](https://github.com/selsa-inube/inubekit-foundations/pull/17) ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+- Add type definition for `Themed` [#16](https://github.com/selsa-inube/inubekit-foundations/pull/16) ([@Andresbl123](https://github.com/Andresbl123))
+- publish a new version `v1.0.0` [#15](https://github.com/selsa-inube/inubekit-foundations/pull/15) ([@Andresbl123](https://github.com/Andresbl123))
+
+#### ⚠️ Pushed to `main`
+
+- feat: implement aliases for paths (carlos3k11@gmail.com)
+
+#### Authors: 3
+
+- Andres ([@Andresbl123](https://github.com/Andresbl123))
+- Andres Babativa (carlos3k11@gmail.com)
+- Januar Asprilla  ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+---
+
 # v0.3.1 (Wed Jan 24 2024)
 
 #### 🐛 Bug Fix
