@@ -1,31 +1,31 @@
 import { palette } from "./palette";
 
-const surface = {
+export const surface = {
   primary: {
-    regular: palette.blue.B400,
-    hover: palette.blue.B300,
-    clear: palette.blue.B50,
-    disabled: palette.neutral.N20,
-  },
-  error: {
-    regular: palette.red.R400,
-    hover: palette.red.R300,
-    clear: palette.red.R50,
-    disabled: palette.neutral.N20,
-  },
-  warning: {
     regular: palette.yellow.Y400,
     hover: palette.yellow.Y300,
     clear: palette.yellow.Y50,
     disabled: palette.neutral.N20,
   },
-  success: {
+  information: {
+    regular: palette.red.R400,
+    hover: palette.red.R300,
+    clear: palette.red.R50,
+    disabled: palette.neutral.N20,
+  },
+  error: {
+    regular: palette.yellow.Y400,
+    hover: palette.yellow.Y300,
+    clear: palette.yellow.Y50,
+    disabled: palette.neutral.N20,
+  },
+  warning: {
     regular: palette.green.G400,
     hover: palette.green.G300,
     clear: palette.green.G50,
     disabled: palette.neutral.N20,
   },
-  information: {
+  success: {
     regular: palette.blue.B400,
     hover: palette.blue.B300,
     clear: palette.blue.B50,
@@ -67,5 +67,3 @@ const surface = {
     disabled: palette.neutral.N20,
   },
 };
-
-export { surface };

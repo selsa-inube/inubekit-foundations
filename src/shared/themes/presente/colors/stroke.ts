@@ -1,15 +1,15 @@
 import { palette } from "./palette";
 
-const stroke = {
+export const stroke = {
   primary: {
-    regular: palette.blue.B400,
-    hover: palette.blue.B300,
-    focus: palette.blue.B300,
+    regular: palette.yellow.Y400,
+    hover: palette.yellow.Y300,
+    focus: palette.yellow.Y300,
     disabled: palette.neutral.N70,
   },
   error: {
     regular: palette.red.R400,
-    hover: palette.blue.B300,
+    hover: palette.red.R300,
     disabled: palette.neutral.N70,
   },
   warning: {
@@ -32,7 +32,7 @@ const stroke = {
     hover: palette.purple.P300,
     disabled: palette.neutral.N70,
   },
-  divider: {
+  table: {
     regular: palette.neutral.N40,
   },
   spinner: {
@@ -52,7 +52,7 @@ const stroke = {
   light: {
     regular: palette.neutral.N10,
     hover: palette.neutral.N0,
-    disabled: palette.neutral.N70,
+    disabled: palette.neutral.N60,
   },
   link: {
     regular: palette.blue.B400,
@@ -60,5 +60,3 @@ const stroke = {
     disabled: palette.neutral.N70,
   },
 };
-
-export { stroke };
