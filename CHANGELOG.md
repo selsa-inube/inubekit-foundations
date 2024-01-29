@@ -1,3 +1,17 @@
+# v1.1.1 (Mon Jan 29 2024)
+
+#### 🐛 Bug Fix
+
+- Implement generation .d ts files [#20](https://github.com/selsa-inube/inubekit-foundations/pull/20) ([@Andresbl123](https://github.com/Andresbl123))
+- correcting the tokens implemented for the current theme [#19](https://github.com/selsa-inube/inubekit-foundations/pull/19) ([@Andresbl123](https://github.com/Andresbl123))
+- publish new version foundations `v1.1.0` [#18](https://github.com/selsa-inube/inubekit-foundations/pull/18) ([@Andresbl123](https://github.com/Andresbl123))
+
+#### Authors: 1
+
+- Andres ([@Andresbl123](https://github.com/Andresbl123))
+
+---
+
 # v1.0.1 (Thu Jan 25 2024)
 
 #### 🐛 Bug Fix
