@@ -25,7 +25,8 @@
     }
   },
   "files": [
-    "dist/index.es.js"
+    "dist/index.es.js",
+    "dist/index.es.d.ts"
   ],
   "dependencies": {
     "react": "^18.2.0",
