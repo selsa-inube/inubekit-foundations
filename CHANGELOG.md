@@ -1,3 +1,16 @@
+# v1.1.2 (Mon Jan 29 2024)
+
+#### 🐛 Bug Fix
+
+- set package.json, for publication of type definition files [#23](https://github.com/selsa-inube/inubekit-foundations/pull/23) ([@Andresbl123](https://github.com/Andresbl123))
+- Implement new version correct [#22](https://github.com/selsa-inube/inubekit-foundations/pull/22) ([@Andresbl123](https://github.com/Andresbl123))
+
+#### Authors: 1
+
+- Andres ([@Andresbl123](https://github.com/Andresbl123))
+
+---
+
 # v1.1.1 (Mon Jan 29 2024)
 
 #### 🐛 Bug Fix
