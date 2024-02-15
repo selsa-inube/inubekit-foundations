@@ -28,7 +28,7 @@
     "dist/index.es.js",
     "dist/index.es.d.ts"
   ],
-  "dependencies": {
+  "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
