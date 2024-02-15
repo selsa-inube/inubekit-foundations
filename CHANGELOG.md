@@ -1,3 +1,32 @@
+# v2.0.0 (Thu Feb 15 2024)
+
+#### 💥 Breaking Change
+
+- feat: create and export text tokens [#28](https://github.com/selsa-inube/inubekit-foundations/pull/28) ([@wfercanas](https://github.com/wfercanas))
+- feat: export palette with new token structure [#27](https://github.com/selsa-inube/inubekit-foundations/pull/27) ([@wfercanas](https://github.com/wfercanas))
+- feat: delete all current tokens with old structure [#26](https://github.com/selsa-inube/inubekit-foundations/pull/26) ([@wfercanas](https://github.com/wfercanas))
+- feat: delete presente tokens and its export [#25](https://github.com/selsa-inube/inubekit-foundations/pull/25) ([@wfercanas](https://github.com/wfercanas))
+
+#### 🚀 Enhancement
+
+- feat: create and export icon tokens [#29](https://github.com/selsa-inube/inubekit-foundations/pull/29) ([@wfercanas](https://github.com/wfercanas))
+
+#### 🐛 Bug Fix
+
+- implement new version `v1.1.2` [#24](https://github.com/selsa-inube/inubekit-foundations/pull/24) ([@Andresbl123](https://github.com/Andresbl123))
+
+#### ⚠️ Pushed to `main`
+
+- feat: update package.json dependencies to peerDependencies (carlos3k11@gmail.com)
+
+#### Authors: 3
+
+- Andres ([@Andresbl123](https://github.com/Andresbl123))
+- Andres Babativa (carlos3k11@gmail.com)
+- Fernando Cañas ([@wfercanas](https://github.com/wfercanas))
+
+---
+
 # v1.1.2 (Mon Jan 29 2024)
 
 #### 🐛 Bug Fix

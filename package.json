@@ -3,7 +3,7 @@
   "description": "Library for publishing all Design System Foundations",
   "author": "inube",
   "private": false,
-  "version": "1.1.2",
+  "version": "1.2.0",
   "type": "module",
   "main": "dist/index.es.js",
   "scripts": {
@@ -28,7 +28,7 @@
     "dist/index.es.js",
     "dist/index.es.d.ts"
   ],
-  "dependencies": {
+  "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
