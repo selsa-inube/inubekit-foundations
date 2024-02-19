@@ -1,3 +1,21 @@
+# v2.1.0 (Mon Feb 19 2024)
+
+#### 🚀 Enhancement
+
+- Create and export `<Fieldset />` tokens [#32](https://github.com/selsa-inube/inubekit-foundations/pull/32) ([@cmarin001](https://github.com/cmarin001))
+
+#### 🐛 Bug Fix
+
+- Create and export `<Spinner />` tokens [#31](https://github.com/selsa-inube/inubekit-foundations/pull/31) ([@cmarin001](https://github.com/cmarin001))
+- Publish new version foundations [#30](https://github.com/selsa-inube/inubekit-foundations/pull/30) ([@Andresbl123](https://github.com/Andresbl123))
+
+#### Authors: 2
+
+- Andres ([@Andresbl123](https://github.com/Andresbl123))
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v2.0.0 (Thu Feb 15 2024)
 
 #### 💥 Breaking Change
@@ -70,7 +88,7 @@
 
 - Andres ([@Andresbl123](https://github.com/Andresbl123))
 - Andres Babativa (carlos3k11@gmail.com)
-- Januar Asprilla  ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+- Januar Asprilla ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
 
 ---
 
@@ -83,7 +101,7 @@
 
 #### Authors: 1
 
-- Januar Asprilla  ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+- Januar Asprilla ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
 
 ---
 
