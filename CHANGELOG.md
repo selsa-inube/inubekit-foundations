@@ -40,7 +40,6 @@
 #### Authors: 3
 
 - Andres ([@Andresbl123](https://github.com/Andresbl123))
-- Andres Babativa (carlos3k11@gmail.com)
 - Fernando Cañas ([@wfercanas](https://github.com/wfercanas))
 
 ---
