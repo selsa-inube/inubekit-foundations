@@ -4,13 +4,15 @@ import { icon } from "./icon";
 import { fieldset } from "./fieldset";
 import { spinner } from "./spinner";
 import { label } from "./label";
+import { toggle } from "./switch";
 
 const inube = {
   icon,
-  label,
   fieldset,
+  label,
   palette,
   spinner,
+  toggle,
   text,
 };
 
