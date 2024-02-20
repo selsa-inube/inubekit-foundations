@@ -1,3 +1,15 @@
+# v2.1.1 (Tue Feb 20 2024)
+
+#### ⚠️ Pushed to `main`
+
+- fix(icon): adjust tokens according to the new requirements (cmarin6051@gmail.com)
+
+#### Authors: 1
+
+- cmarin001 (cmarin6051@gmail.com)
+
+---
+
 # v2.1.0 (Mon Feb 19 2024)
 
 #### 🚀 Enhancement
