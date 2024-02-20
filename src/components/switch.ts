@@ -1,6 +1,6 @@
 import { palette } from "./palette";
 
-const Switch = {
+const toggle = {
   on: {
     background: {
       color: {
@@ -55,4 +55,4 @@ const Switch = {
   },
 };
 
-export { Switch };
+export { toggle };
