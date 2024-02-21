@@ -1,3 +1,19 @@
+# v2.2.0 (Tue Feb 20 2024)
+
+#### 🚀 Enhancement
+
+- Create new Button tokens [#38](https://github.com/selsa-inube/inubekit-foundations/pull/38) ([@cmarin001](https://github.com/cmarin001))
+- Create new Switch tokens [#37](https://github.com/selsa-inube/inubekit-foundations/pull/37) ([@cmarin001](https://github.com/cmarin001))
+- Create new Label tokens [#36](https://github.com/selsa-inube/inubekit-foundations/pull/36) ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+- Adjust and publish Icon tokens [#35](https://github.com/selsa-inube/inubekit-foundations/pull/35) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 2
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Januar Asprilla  ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+---
+
 # v2.1.1 (Tue Feb 20 2024)
 
 #### ⚠️ Pushed to `main`
