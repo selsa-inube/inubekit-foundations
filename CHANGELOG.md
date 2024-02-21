@@ -1,12 +1,12 @@
 # v2.2.1 (Wed Feb 21 2024)
 
+#### 🚀 patch
 
+- update README.md
 
----
+#### Authors: 2
 
-# v2.2.1 (Wed Feb 21 2024)
-
-
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
 
 ---
 
@@ -22,7 +22,7 @@
 #### Authors: 2
 
 - Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
-- Januar Asprilla  ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+- Januar Asprilla ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
 
 ---
 
