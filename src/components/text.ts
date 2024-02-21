@@ -67,7 +67,7 @@ const text = {
   light: {
     content: {
       color: {
-        regular: palette.neutral.N100,
+        regular: palette.neutral.N10,
         disabled: palette.neutral.N70,
         hover: palette.neutral.N0,
       },
