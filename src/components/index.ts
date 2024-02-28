@@ -6,6 +6,7 @@ import { spinner } from "./spinner";
 import { button } from "./button";
 import { label } from "./label";
 import { toggle } from "./switch";
+import { input } from "./input";
 
 const inube = {
   button,
@@ -16,6 +17,7 @@ const inube = {
   spinner,
   toggle,
   text,
+  input,
 };
 
 export { inube };
