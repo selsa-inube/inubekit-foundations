@@ -3,7 +3,7 @@
   "description": "Library for publishing all Design System Foundations",
   "author": "inube",
   "private": false,
-  "version": "2.2.1",
+  "version": "2.3.0",
   "type": "module",
   "main": "dist/index.es.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "auto": "auto",
     "changelog": "npm run auto changelog",
     "version": "rm -rf dist && npm run build",
-    "postversion": "git push --follow-tags && npm run auto release"
+    "release": "git push --follow-tags && npm run auto release"
   },
   "exports": {
     ".": {
