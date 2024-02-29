@@ -1,3 +1,19 @@
+# v2.4.0 (Thu Feb 29 2024)
+
+#### 🚀 Enhancement
+
+- Create and export typography tokens [#47](https://github.com/selsa-inube/inubekit-foundations/pull/47) ([@cmarin001](https://github.com/cmarin001))
+
+#### 📝 Documentation
+
+- Publish new version 2.3.0 [#46](https://github.com/selsa-inube/inubekit-foundations/pull/46) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v2.3.0 (Wed Feb 28 2024)
 
 #### 🚀 Enhancement
