@@ -7,17 +7,19 @@ import { button } from "./button";
 import { label } from "./label";
 import { toggle } from "./switch";
 import { input } from "./input";
+import { typography } from "./typography";
 
 const inube = {
   button,
-  icon,
   fieldset,
+  icon,
+  input,
   label,
   palette,
   spinner,
   toggle,
   text,
-  input,
+  typography,
 };
 
 export { inube };
