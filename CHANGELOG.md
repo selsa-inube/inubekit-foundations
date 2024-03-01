@@ -1,3 +1,20 @@
+# v2.5.0 (Fri Mar 01 2024)
+
+#### 🚀 Enhancement
+
+- Change contrast blocks in button tokens [#50](https://github.com/selsa-inube/inubekit-foundations/pull/50) ([@cmarin001](https://github.com/cmarin001))
+- Add gray appearance in spinner tokens [#49](https://github.com/selsa-inube/inubekit-foundations/pull/49) ([@cmarin001](https://github.com/cmarin001))
+
+#### 📝 Documentation
+
+- Publish new version 2.4.0 [#48](https://github.com/selsa-inube/inubekit-foundations/pull/48) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v2.4.0 (Thu Feb 29 2024)
 
 #### 🚀 Enhancement
