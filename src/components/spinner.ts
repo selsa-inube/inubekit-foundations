@@ -109,6 +109,24 @@ const spinner = {
       },
     },
   },
+  gray: {
+    solid: {
+      spin: {
+        color: palette.neutral.N100,
+      },
+      track: {
+        color: palette.neutral.N30,
+      },
+    },
+    transparent: {
+      spin: {
+        color: palette.neutral.N100,
+      },
+      track: {
+        color: palette.neutralAlpha.N0A,
+      },
+    },
+  },
   light: {
     solid: {
       spin: {
