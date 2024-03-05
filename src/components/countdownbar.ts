@@ -1,6 +1,6 @@
 import { palette } from "./palette";
 
-const countdown_bar = {
+const countdownbar = {
   primary: {
     color: palette.blue.B400,
   },
@@ -27,4 +27,4 @@ const countdown_bar = {
   },
 };
 
-export { countdown_bar };
+export { countdownbar };
