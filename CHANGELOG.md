@@ -1,3 +1,21 @@
+# v2.6.0 (Wed Mar 06 2024)
+
+#### 🚀 Enhancement
+
+- Create and export `CountdownBar` tokens [#52](https://github.com/selsa-inube/inubekit-foundations/pull/52) ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+- Create and export `Skeleton` tokens [#53](https://github.com/selsa-inube/inubekit-foundations/pull/53) ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+#### 📝 Documentation
+
+- Publish new version 2.5.0 [#51](https://github.com/selsa-inube/inubekit-foundations/pull/51) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 2
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Januar Asprilla  ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+---
+
 # v2.5.0 (Fri Mar 01 2024)
 
 #### 🚀 Enhancement
