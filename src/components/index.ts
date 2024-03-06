@@ -7,11 +7,11 @@ import { button } from "./button";
 import { label } from "./label";
 import { toggle } from "./switch";
 import { input } from "./input";
-import { countdownbar } from "./countdownbar";
+import { countdownBar } from "./countdownbar";
 
 const inube = {
   button,
-  countdownbar,
+  countdownBar,
   icon,
   fieldset,
   label,
