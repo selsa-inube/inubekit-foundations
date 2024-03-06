@@ -8,6 +8,7 @@ import { label } from "./label";
 import { toggle } from "./switch";
 import { input } from "./input";
 import { typography } from "./typography";
+import { skeleton } from "./skeleton";
 
 const inube = {
   button,
@@ -20,6 +21,7 @@ const inube = {
   toggle,
   text,
   typography,
+  skeleton,
 };
 
 export { inube };
