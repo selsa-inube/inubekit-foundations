@@ -17,10 +17,7 @@ const button = {
       },
     },
     contrast: {
-      appearance: {
-        regular: "light",
-        disabled: "gray",
-      },
+      appearance: "light",
     },
   },
   success: {
@@ -39,10 +36,7 @@ const button = {
       },
     },
     contrast: {
-      appearance: {
-        regular: "light",
-        disabled: "gray",
-      },
+      appearance: "light",
     },
   },
   warning: {
@@ -61,10 +55,7 @@ const button = {
       },
     },
     contrast: {
-      appearance: {
-        regular: "light",
-        disabled: "gray",
-      },
+      appearance: "dark",
     },
   },
   danger: {
@@ -83,10 +74,7 @@ const button = {
       },
     },
     contrast: {
-      appearance: {
-        regular: "light",
-        disabled: "gray",
-      },
+      appearance: "light",
     },
   },
   help: {
@@ -105,10 +93,7 @@ const button = {
       },
     },
     contrast: {
-      appearance: {
-        regular: "light",
-        disabled: "gray",
-      },
+      appearance: "light",
     },
   },
   dark: {
@@ -127,10 +112,7 @@ const button = {
       },
     },
     contrast: {
-      appearance: {
-        regular: "light",
-        disabled: "gray",
-      },
+      appearance: "light",
     },
   },
   gray: {
@@ -149,10 +131,7 @@ const button = {
       },
     },
     contrast: {
-      appearance: {
-        regular: "dark",
-        disabled: "gray",
-      },
+      appearance: "dark",
     },
   },
   light: {
@@ -171,10 +150,7 @@ const button = {
       },
     },
     contrast: {
-      appearance: {
-        regular: "dark",
-        disabled: "gray",
-      },
+      appearance: "dark",
     },
   },
 };
