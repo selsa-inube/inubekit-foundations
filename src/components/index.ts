@@ -10,6 +10,7 @@ import { input } from "./input";
 import { countdownBar } from "./countdownbar";
 import { typography } from "./typography";
 import { skeleton } from "./skeleton";
+import { tag } from "./tag";
 
 const inube = {
   button,
@@ -24,6 +25,7 @@ const inube = {
   countdownBar,
   typography,
   skeleton,
+  tag,
 };
 
 export { inube };
