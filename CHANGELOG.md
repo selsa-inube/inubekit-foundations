@@ -1,3 +1,20 @@
+# v2.6.1 (Thu Mar 07 2024)
+
+#### 🐛 Bug Fix
+
+- Create and export new `Tag` tokens [#55](https://github.com/selsa-inube/inubekit-foundations/pull/55) ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+#### 📝 Documentation
+
+- Publish new version 2.6.0 [#54](https://github.com/selsa-inube/inubekit-foundations/pull/54) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 2
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Januar Asprilla  ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+---
+
 # v2.6.0 (Wed Mar 06 2024)
 
 #### 🚀 Enhancement
