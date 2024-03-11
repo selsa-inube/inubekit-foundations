@@ -1,3 +1,20 @@
+# v2.7.0 (Mon Mar 11 2024)
+
+#### 🚀 Enhancement
+
+- Create and export Blanket tokens [#57](https://github.com/selsa-inube/inubekit-foundations/pull/57) ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+#### 📝 Documentation
+
+- Release new version 2.6.1 [#56](https://github.com/selsa-inube/inubekit-foundations/pull/56) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 2
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Januar Asprilla  ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+---
+
 # v2.6.1 (Thu Mar 07 2024)
 
 #### 🐛 Bug Fix
