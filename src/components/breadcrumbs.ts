@@ -1,8 +1,6 @@
 const breadcrumbs = {
   content: {
-    appearance: {
-      active: "dark",
-    },
+    active: "dark",
   },
 };
 
