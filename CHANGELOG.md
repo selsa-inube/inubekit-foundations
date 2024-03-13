@@ -1,3 +1,19 @@
+# v2.8.0 (Wed Mar 13 2024)
+
+#### 🚀 Enhancement
+
+- FIx: adjust breadcrumbs tokens according to the file provided by the designer [#59](https://github.com/selsa-inube/inubekit-foundations/pull/59) ([@cmarin001](https://github.com/cmarin001))
+
+#### 📝 Documentation
+
+- Publish new version 2.7.0 [#58](https://github.com/selsa-inube/inubekit-foundations/pull/58) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v2.7.0 (Mon Mar 11 2024)
 
 #### 🚀 Enhancement
