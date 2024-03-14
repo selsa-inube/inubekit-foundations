@@ -1,3 +1,20 @@
+# v2.9.0 (Thu Mar 14 2024)
+
+#### 🚀 Enhancement
+
+- Create and export tokens for `link`  component [#61](https://github.com/selsa-inube/inubekit-foundations/pull/61) ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+#### 📝 Documentation
+
+- Publish new version 2.8.0 [#60](https://github.com/selsa-inube/inubekit-foundations/pull/60) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 2
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Januar Asprilla  ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+---
+
 # v2.8.0 (Wed Mar 13 2024)
 
 #### 🚀 Enhancement
