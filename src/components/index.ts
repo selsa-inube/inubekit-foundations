@@ -15,8 +15,10 @@ import { blanket } from "./blanket";
 import { header } from "./header";
 import { tabs } from "./tabs";
 import { breadcrumbs } from "./breadcrumbs";
+import { link } from "./link";
 
 const inube = {
+  link,
   breadcrumbs,
   tabs,
   header,
