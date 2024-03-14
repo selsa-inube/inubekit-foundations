@@ -7,11 +7,6 @@ const link = {
       hover: palette.blue.B300,
     },
   },
-  underline: {
-    color: {
-      hover: palette.blue.B300,
-    },
-  },
 };
 
 export { link };
