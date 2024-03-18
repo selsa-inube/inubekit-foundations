@@ -1,3 +1,19 @@
+# v2.10.0 (Mon Mar 18 2024)
+
+#### 🚀 Enhancement
+
+- Adjust border and contrast tokens for gray buttons [#63](https://github.com/selsa-inube/inubekit-foundations/pull/63) ([@cmarin001](https://github.com/cmarin001))
+
+#### 📝 Documentation
+
+- Publish new version 2.9.0 [#62](https://github.com/selsa-inube/inubekit-foundations/pull/62) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v2.9.0 (Thu Mar 14 2024)
 
 #### 🚀 Enhancement
