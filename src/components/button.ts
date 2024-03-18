@@ -125,13 +125,13 @@ const button = {
     },
     border: {
       color: {
-        regular: palette.neutral.N20,
+        regular: palette.neutral.N200,
         disabled: palette.neutral.N70,
-        hover: palette.neutral.N30,
+        hover: palette.neutral.N90,
       },
     },
     contrast: {
-      appearance: "dark",
+      appearance: "gray",
     },
   },
   light: {
