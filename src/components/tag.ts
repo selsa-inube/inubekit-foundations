@@ -7,7 +7,7 @@ const tag = {
         color: palette.blue.B50,
       },
       content: {
-        apparence: "primary",
+        appearance: "primary",
       },
     },
     strong: {
@@ -15,7 +15,7 @@ const tag = {
         color: palette.blue.B400,
       },
       content: {
-        apparence: "light",
+        appearance: "light",
       },
     },
   },
@@ -25,7 +25,7 @@ const tag = {
         color: palette.green.G50,
       },
       content: {
-        apparence: "success",
+        appearance: "success",
       },
     },
     strong: {
@@ -33,7 +33,7 @@ const tag = {
         color: palette.green.G400,
       },
       content: {
-        apparence: "light",
+        appearance: "light",
       },
     },
   },
@@ -43,7 +43,7 @@ const tag = {
         color: palette.yellow.Y50,
       },
       content: {
-        apparence: "warning",
+        appearance: "warning",
       },
     },
     strong: {
@@ -51,7 +51,7 @@ const tag = {
         color: palette.yellow.Y400,
       },
       content: {
-        apparence: "dark",
+        appearance: "dark",
       },
     },
   },
@@ -61,7 +61,7 @@ const tag = {
         color: palette.red.R50,
       },
       content: {
-        apparence: "danger",
+        appearance: "danger",
       },
     },
     strong: {
@@ -69,7 +69,7 @@ const tag = {
         color: palette.red.R400,
       },
       content: {
-        apparence: "light",
+        appearance: "light",
       },
     },
   },
@@ -79,7 +79,7 @@ const tag = {
         color: palette.purple.P50,
       },
       content: {
-        apparence: "help",
+        appearance: "help",
       },
     },
     strong: {
@@ -87,7 +87,7 @@ const tag = {
         color: palette.purple.P400,
       },
       content: {
-        apparence: "light",
+        appearance: "light",
       },
     },
   },
@@ -97,7 +97,7 @@ const tag = {
         color: palette.neutral.N30,
       },
       content: {
-        apparence: "dark",
+        appearance: "dark",
       },
     },
     strong: {
@@ -105,7 +105,7 @@ const tag = {
         color: palette.neutral.N900,
       },
       content: {
-        apparence: "light",
+        appearance: "light",
       },
     },
   },
@@ -115,7 +115,7 @@ const tag = {
         color: palette.neutral.N10,
       },
       content: {
-        apparence: "gray",
+        appearance: "gray",
       },
     },
     strong: {
@@ -123,7 +123,7 @@ const tag = {
         color: palette.neutral.N30,
       },
       content: {
-        apparence: "gray",
+        appearance: "gray",
       },
     },
   },
@@ -133,7 +133,7 @@ const tag = {
         color: palette.neutral.N0,
       },
       content: {
-        apparence: "dark",
+        appearance: "dark",
       },
     },
     strong: {
@@ -141,7 +141,7 @@ const tag = {
         color: palette.neutral.N10,
       },
       content: {
-        apparence: "dark",
+        appearance: "dark",
       },
     },
   },
