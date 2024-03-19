@@ -16,8 +16,10 @@ import { header } from "./header";
 import { tabs } from "./tabs";
 import { breadcrumbs } from "./breadcrumbs";
 import { link } from "./link";
+import { assisted } from "./assisted";
 
 const inube = {
+  assisted,
   link,
   breadcrumbs,
   tabs,
