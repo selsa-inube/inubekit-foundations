@@ -1,3 +1,24 @@
+# v2.11.0 (Wed Mar 20 2024)
+
+#### 🚀 Enhancement
+
+- Create and export tokens for `assisted` component [#66](https://github.com/selsa-inube/inubekit-foundations/pull/66) ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+#### 🐛 Bug Fix
+
+- Adjust token structure of `tag`, because the las part says `"apparence"` instead of `"appearance"` [#65](https://github.com/selsa-inube/inubekit-foundations/pull/65) ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+#### 📝 Documentation
+
+- Publish new version 2.10.0 [#64](https://github.com/selsa-inube/inubekit-foundations/pull/64) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 2
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Januar Asprilla  ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+---
+
 # v2.10.0 (Mon Mar 18 2024)
 
 #### 🚀 Enhancement
