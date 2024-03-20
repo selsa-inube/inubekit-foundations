@@ -1,7 +1,7 @@
 import { palette } from "./palette";
 
 const assisted = {
-  tittle: {
+  title: {
     appearance: "dark",
   },
   description: {
