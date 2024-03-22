@@ -1,3 +1,24 @@
+# v2.12.0 (Fri Mar 22 2024)
+
+#### 🚀 Enhancement
+
+- Create and export `SectionMessage`, `Nav` and `FullScreenNav` tokens [#69](https://github.com/selsa-inube/inubekit-foundations/pull/69) ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+#### 📝 Documentation
+
+- Publish new version 2.11.0 [#67](https://github.com/selsa-inube/inubekit-foundations/pull/67) ([@cmarin001](https://github.com/cmarin001))
+
+#### 🔩 Dependency Updates
+
+- Update inubekit/foundations to storybook v8 [#68](https://github.com/selsa-inube/inubekit-foundations/pull/68) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 2
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Januar Asprilla  ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+---
+
 # v2.11.0 (Wed Mar 20 2024)
 
 #### 🚀 Enhancement
