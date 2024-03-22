@@ -17,8 +17,14 @@ import { tabs } from "./tabs";
 import { breadcrumbs } from "./breadcrumbs";
 import { link } from "./link";
 import { assisted } from "./assisted";
+import { sectionMessage } from "./sectionmessage";
+import { nav } from "./nav";
+import { fullscreenNav } from "./fullscreennav";
 
 const inube = {
+  fullscreenNav,
+  nav,
+  sectionMessage,
   assisted,
   link,
   breadcrumbs,
