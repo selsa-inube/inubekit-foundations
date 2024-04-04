@@ -1,3 +1,19 @@
+# v2.12.1 (Thu Apr 04 2024)
+
+#### 🐛 Bug Fix
+
+- Add auto publish [#71](https://github.com/selsa-inube/inubekit-foundations/pull/71) ([@cmarin001](https://github.com/cmarin001))
+
+#### 📝 Documentation
+
+- Publish new version 2.12.0 [#70](https://github.com/selsa-inube/inubekit-foundations/pull/70) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v2.12.0 (Fri Mar 22 2024)
 
 #### 🚀 Enhancement
