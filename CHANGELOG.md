@@ -1,3 +1,15 @@
+# v2.14.0 (Fri May 17 2024)
+
+#### 🚀 Enhancement
+
+- Update input tokens structure [#73](https://github.com/selsa-inube/inubekit-foundations/pull/73) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v2.13.0 (Tue Apr 30 2024)
 
 #### 🚀 Enhancement
