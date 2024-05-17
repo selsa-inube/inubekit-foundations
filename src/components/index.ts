@@ -5,7 +5,7 @@ import { fieldset } from "./fieldset";
 import { spinner } from "./spinner";
 import { button } from "./button";
 import { label } from "./label";
-import { toggle } from "./switch";
+import { toggle } from "./toggle";
 import { input } from "./input";
 import { countdownBar } from "./countdownbar";
 import { typography } from "./typography";
