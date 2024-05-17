@@ -37,4 +37,13 @@ export const input = {
       disabled: palette.neutral.N70,
     },
   },
+  optionList: {
+    appearance: {
+      regular: "dark",
+      expanded: "primary",
+    },
+    background: {
+      selected: palette.neutral.N30,
+    }
+  }
 };
