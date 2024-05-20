@@ -18,6 +18,23 @@ Inubekit-foundations is a library that defines and exports structured tokens to 
 ## Documentation
 
 The tokens are designed to follow a specific method for fulfilling the color requirements of a component, as outlined below:
+<br /> 
+1. ### Tokens Structure
+![image](https://github.com/selsa-inube/design-system-web/assets/45011420/9204e875-bfa1-471d-b615-19e19ec06ab2)
+
+   - **A. Business Unit**: Defines which unit the token belongs to.
+   - **B. Component**: Specifies the component to modify.
+   - **C. Appearance**: Indicates the state the component should take.
+   - **D. Block**: Defines the characteristic the token should receive.
+   - **E. Element**: Specifies the design attribute.
+   - **F. Modifier**: Defines how the component should look.
+
+2. ### Conditions
+   - **1. Content**: Applies to border, background, text, and icon components.
+   - **2. Contrast**: Applies to texts, icons, and spinners when the background is filled.
+   - **3. Hover**: When filled, texts and icons do not support hover effects.
+     
+  
 <br />
 
 - **Palette**: Color palette that is used within the design system.
@@ -144,8 +161,7 @@ We are going to use `<Button/>` in order to explain
 **There are also typography tokens, which are used in specific contexts where a particular type of text or alignment for inputs is required, such as in `<Text/>`, `<TextField/>`, and similar components.**
 
 <br />
-<br />
-<br />
-<p  align="center"> Made with ❤️ by Sistemas EnLinea S.A. </p>
+
+<p  align="center"> Made with ❤️ by Inube </p>
 
 
