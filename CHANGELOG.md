@@ -1,3 +1,15 @@
+# v2.14.1 (Mon May 20 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update README.md ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v2.14.0 (Fri May 17 2024)
 
 #### 🚀 Enhancement
