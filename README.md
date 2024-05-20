@@ -124,7 +124,10 @@ export { StyledLabel };
 
 At this point, you are probably wondering why we use the structure theme?.label?.content?.color?.regular || inube.label.content.color.regular. The reason is simple: by default, our components will use the Inube theme. However, since the components can be customized using the same token structure but with a different palette, you can achieve results like this:
 <br />
-we are going to use <Button/> in order to explain
+<br />
+
+We are going to use `<Button/>` in order to explain
+
 <br />
 - **inube theme: inube.button.primary.content.color.regular**
 
