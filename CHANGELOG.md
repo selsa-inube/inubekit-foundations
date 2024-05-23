@@ -1,3 +1,15 @@
+# v2.15.0 (Thu May 23 2024)
+
+#### 🚀 Enhancement
+
+- Add Background Tokens for Expanded and Selected OptionList [#74](https://github.com/selsa-inube/inubekit-foundations/pull/74) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v2.14.2 (Mon May 20 2024)
 
 #### ⚠️ Pushed to `main`
