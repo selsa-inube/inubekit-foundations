@@ -44,6 +44,7 @@ export const input = {
     },
     background: {
       selected: palette.neutral.N30,
+      expanded: palette.neutral.N0,
     }
   }
 };
