@@ -1,49 +1,51 @@
-import { palette } from "./palette";
-import { text } from "./text";
-import { icon } from "./icon";
-import { fieldset } from "./fieldset";
-import { spinner } from "./spinner";
-import { button } from "./button";
-import { label } from "./label";
-import { toggle } from "./toggle";
-import { input } from "./input";
-import { countdownBar } from "./countdownbar";
-import { typography } from "./typography";
-import { skeleton } from "./skeleton";
-import { tag } from "./tag";
-import { blanket } from "./blanket";
-import { header } from "./header";
-import { tabs } from "./tabs";
-import { breadcrumbs } from "./breadcrumbs";
-import { link } from "./link";
 import { assisted } from "./assisted";
-import { sectionMessage } from "./sectionmessage";
-import { nav } from "./nav";
+import { blanket } from "./blanket";
+import { breadcrumbs } from "./breadcrumbs";
+import { button } from "./button";
+import { countdownBar } from "./countdownbar";
+import { divider } from "./divider";
+import { fieldset } from "./fieldset";
 import { fullscreenNav } from "./fullscreennav";
+import { header } from "./header";
+import { icon } from "./icon";
+import { input } from "./input";
+import { label } from "./label";
+import { link } from "./link";
+import { nav } from "./nav";
+import { palette } from "./palette";
+import { sectionMessage } from "./sectionmessage";
+import { skeleton } from "./skeleton";
+import { spinner } from "./spinner";
+import { tabs } from "./tabs";
+import { tag } from "./tag";
+import { text } from "./text";
+import { toggle } from "./toggle";
+import { typography } from "./typography";
 
 const inube = {
-  fullscreenNav,
-  nav,
-  sectionMessage,
   assisted,
-  link,
-  breadcrumbs,
-  tabs,
-  header,
   blanket,
+  breadcrumbs,
   button,
+  countdownBar,
+  divider,
   fieldset,
+  fullscreenNav,
+  header,
   icon,
   input,
   label,
+  link,
+  nav,
   palette,
-  spinner,
-  toggle,
-  text,
-  countdownBar,
-  typography,
+  sectionMessage,
   skeleton,
+  spinner,
+  tabs,
   tag,
+  text,
+  toggle,
+  typography
 };
 
 export { inube };
