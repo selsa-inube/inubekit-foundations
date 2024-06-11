@@ -5,7 +5,7 @@ export const input = {
     color: {
       regular: palette.neutral.N40,
       disabled: palette.neutral.N40,
-      focus: palette.blue.B400,
+      focus: palette.blue.B300,
       invalid: palette.red.R400,
     },
   },
