@@ -6,7 +6,7 @@ export const label = {
       regular: palette.neutral.N900,
       disabled: palette.neutral.N70,
       focus: palette.blue.B300,
-      invalid: palette.red.R300,
+      invalid: palette.red.R400,
     },
   },
 };
