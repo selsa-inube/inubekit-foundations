@@ -1,3 +1,15 @@
+# v3.1.0 (Tue Jun 11 2024)
+
+#### 🚀 Enhancement
+
+- Update the reference token for the input component, in its focus state [#76](https://github.com/selsa-inube/inubekit-foundations/pull/76) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v3.0.0 (Wed May 29 2024)
 
 #### 💥 Breaking Change
