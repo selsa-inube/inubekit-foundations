@@ -1,3 +1,15 @@
+# v3.2.0 (Mon Jun 17 2024)
+
+#### 🚀 Enhancement
+
+- Update Color Token for Input [#77](https://github.com/selsa-inube/inubekit-foundations/pull/77) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v3.1.0 (Tue Jun 11 2024)
 
 #### 🚀 Enhancement
