@@ -11,7 +11,7 @@ export const input = {
   },
   background: {
     color: {
-      regular: palette.neutralAlpha.N0A,
+      regular: palette.neutral.N0,
       disabled: palette.neutral.N10,
     },
   },
