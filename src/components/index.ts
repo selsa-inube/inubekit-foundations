@@ -16,6 +16,7 @@ import { palette } from "./palette";
 import { sectionMessage } from "./sectionmessage";
 import { skeleton } from "./skeleton";
 import { spinner } from "./spinner";
+import { table } from "./table";
 import { tabs } from "./tabs";
 import { tag } from "./tag";
 import { text } from "./text";
@@ -41,6 +42,7 @@ const inube = {
   sectionMessage,
   skeleton,
   spinner,
+  table,
   tabs,
   tag,
   text,
