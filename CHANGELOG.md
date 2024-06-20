@@ -1,3 +1,15 @@
+# v4.0.0 (Thu Jun 20 2024)
+
+#### 💥 Breaking Change
+
+- Include `<Table/>` Tokens [#78](https://github.com/selsa-inube/inubekit-foundations/pull/78) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v3.2.0 (Mon Jun 17 2024)
 
 #### 🚀 Enhancement
