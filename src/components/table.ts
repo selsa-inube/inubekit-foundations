@@ -5,20 +5,12 @@ const table = {
     color: palette.neutral.N40
   },
   heading:{
-    background: {
-      regular: palette.neutral.N0
-    },
-    color:{
-      regular: palette.neutral.N900
-    }
+    background: palette.neutral.N0,
+    color: palette.neutral.N900
   },
   action:{
-    background: {
-      action: palette.neutral.N30
-    },
-    color:{
-      action: palette.neutral.N900
-    }
+    background: palette.neutral.N30,
+    color: palette.neutral.N900
   },
   row:{
     background: {
