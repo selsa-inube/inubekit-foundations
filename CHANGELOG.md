@@ -1,3 +1,15 @@
+# v5.1.0 (Mon Jul 08 2024)
+
+#### 🚀 Enhancement
+
+- Update Typography Tokens to Remove Unnecessary Props Due to New Component Management [#80](https://github.com/selsa-inube/inubekit-foundations/pull/80) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v5.0.0 (Fri Jun 21 2024)
 
 #### 💥 Breaking Change
