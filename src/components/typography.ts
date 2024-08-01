@@ -89,7 +89,7 @@ const typography = {
       font: "Roboto",
       lineHeight: "24px",
       size: "16px",
-      tracking: "0.5",
+      tracking: "0.5px",
     },
     medium: {
       font: "Roboto",
