@@ -1,3 +1,15 @@
+# v5.2.4 (Fri Aug 02 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update README.md in order to define the latest version on doc ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v5.2.3 (Fri Aug 02 2024)
 
 #### ⚠️ Pushed to `main`
