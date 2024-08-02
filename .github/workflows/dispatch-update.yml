@@ -12,52 +12,59 @@ jobs:
         id: check_release
         run: |
           RELEASE_VERSION=${{ github.event.release.tag_name }}
-          RELEASE_TYPE=$(echo $RELEASE_VERSION | grep -Eo '^[0-9]+\.[0-9]+\.[0-9]+' | awk -F. '{print ($1 == 0 && $2 == 0) ? "patch" : ($2 > 0 ? "minor" : "major")}')
-          echo "RELEASE_TYPE=$RELEASE_TYPE" >> $GITHUB_ENV
+          MAJOR=$(echo $RELEASE_VERSION | cut -d'.' -f1)
+          MINOR=$(echo $RELEASE_VERSION | cut -d'.' -f2)
+          PATCH=$(echo $RELEASE_VERSION | cut -d'.' -f3)
           
-          if [[ "$RELEASE_TYPE" == "major" ]]; then
-            echo "This is a major release. Exiting..."
-            exit 0
+          if [[ "$MAJOR" -eq "0" && "$MINOR" -eq "0" ]]; then
+            RELEASE_TYPE="patch"
+          elif [[ "$MINOR" -gt "0" ]]; then
+            RELEASE_TYPE="minor"
+          else
+            RELEASE_TYPE="major"
           fi
+          
+          echo "RELEASE_TYPE=$RELEASE_TYPE" >> $GITHUB_ENV
+          echo "RELEASE_TYPE=$RELEASE_TYPE"
 
       - name: Trigger Update in Dependent Projects
-        if: steps.check_release.outputs.RELEASE_TYPE != 'major'
+        if: env.RELEASE_TYPE != 'major'
         run: |
           REPOS=(
-            "selsa-inube/inubekit-avatar",
-            "selsa-inube/inubekit-autocomplete",
-            "selsa-inube/inubekit-assisted",
-            "selsa-inube/inubekit-blanket",
-            "selsa-inube/inubekit-breadcrumbs",
-            "selsa-inube/inubekit-countdownbar",
-            "selsa-inube/inubekit-datefield",
-            "selsa-inube/inubekit-divider",
-            "selsa-inube/inubekit-fieldset",
-            "selsa-inube/inubekit-fullscreennav",
-            "selsa-inube/inubekit-foundations",
-            "selsa-inube/inubekit-grid",
-            "selsa-inube/inubekit-header",
-            "selsa-inube/inubekit-hooks",
-            "selsa-inube/inubekit-icon",
-            "selsa-inube/inubekit-link",
-            "selsa-inube/inubekit-label",
-            "selsa-inube/inubekit-menu",
-            "selsa-inube/inubekit-monthpicker",
-            "selsa-inube/inubekit-nav",
-            "selsa-inube/inubekit-flag",
-            "selsa-inube/inubekit-select",
-            "selsa-inube/inubekit-skeleton",
-            "selsa-inube/inubekit-spinner",
-            "selsa-inube/inubekit-stack",
-            "selsa-inube/inubekit-tabs",
-            "selsa-inube/inubekit-table",
-            "selsa-inube/inubekit-tag",
-            "selsa-inube/inubekit-text",
-            "selsa-inube/inubekit-textarea",
-            "selsa-inube/inubekit-textfield",
-            "selsa-inube/inubekit-toggle",
-            "selsa-inube/inubekit-user",
-            "selsa-inube/inubekit-yearpicker",
+            "selsa-inube/inubekit-avatar"
+            "selsa-inube/inubekit-autocomplete"
+            "selsa-inube/inubekit-assisted"
+            "selsa-inube/inubekit-blanket"
+            "selsa-inube/inubekit-breadcrumbs"
+            "selsa-inube/inubekit-countdownbar"
+            "selsa-inube/inubekit-datefield"
+            "selsa-inube/inubekit-divider"
+            "selsa-inube/inubekit-fieldset"
+            "selsa-inube/inubekit-fullscreennav"
+            "selsa-inube/inubekit-foundations"
+            "selsa-inube/inubekit-grid"
+            "selsa-inube/inubekit-header"
+            "selsa-inube/inubekit-hooks"
+            "selsa-inube/inubekit-icon"
+            "selsa-inube/inubekit-link"
+            "selsa-inube/inubekit-label"
+            "selsa-inube/inubekit-menu"
+            "selsa-inube/inubekit-monthpicker"
+            "selsa-inube/inubekit-nav"
+            "selsa-inube/inubekit-flag"
+            "selsa-inube/inubekit-select"
+            "selsa-inube/inubekit-skeleton"
+            "selsa-inube/inubekit-spinner"
+            "selsa-inube/inubekit-stack"
+            "selsa-inube/inubekit-tabs"
+            "selsa-inube/inubekit-table"
+            "selsa-inube/inubekit-tag"
+            "selsa-inube/inubekit-text"
+            "selsa-inube/inubekit-textarea"
+            "selsa-inube/inubekit-textfield"
+            "selsa-inube/inubekit-toggle"
+            "selsa-inube/inubekit-user"
+            "selsa-inube/inubekit-yearpicker"
           )
 
           for REPO in "${REPOS[@]}"; do
