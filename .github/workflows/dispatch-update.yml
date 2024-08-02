@@ -8,9 +8,23 @@ jobs:
   dispatch:
     runs-on: ubuntu-latest
     steps:
+      - name: Check Release Type
+        id: check_release
+        run: |
+          RELEASE_VERSION=${{ github.event.release.tag_name }}
+          RELEASE_TYPE=$(echo $RELEASE_VERSION | grep -Eo '^[0-9]+\.[0-9]+\.[0-9]+' | awk -F. '{print ($1 == 0 && $2 == 0) ? "patch" : ($2 > 0 ? "minor" : "major")}')
+          echo "RELEASE_TYPE=$RELEASE_TYPE" >> $GITHUB_ENV
+          
+          if [[ "$RELEASE_TYPE" == "major" ]]; then
+            echo "This is a major release. Exiting..."
+            exit 0
+          fi
+
       - name: Trigger Update in Dependent Projects
+        if: steps.check_release.outputs.RELEASE_TYPE != 'major'
         run: |
           REPOS=(
+            "selsa-inube/inubekit-avatar"
             "selsa-inube/inubekit-icon"
           )
 
