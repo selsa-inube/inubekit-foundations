@@ -36,6 +36,7 @@ jobs:
             "selsa-inube/inubekit-assisted"
             "selsa-inube/inubekit-blanket"
             "selsa-inube/inubekit-breadcrumbs"
+            "selsa-inube/inubekit-button"
             "selsa-inube/inubekit-countdownbar"
             "selsa-inube/inubekit-datefield"
             "selsa-inube/inubekit-divider"
