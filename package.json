@@ -3,7 +3,7 @@
   "description": "Library for publishing all Design System Foundations",
   "author": "inube",
   "private": false,
-  "version": "5.4.0",
+  "version": "5.5.0",
   "type": "module",
   "main": "dist/index.es.js",
   "scripts": {
