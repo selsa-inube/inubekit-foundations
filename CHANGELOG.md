@@ -1,3 +1,15 @@
+# v5.3.0 (Fri Aug 02 2024)
+
+#### 🚀 Enhancement
+
+- Add GitHub Workflow to Automatically Update Foundations Dependencies [#82](https://github.com/selsa-inube/inubekit-foundations/pull/82) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v5.2.18 (Fri Aug 02 2024)
 
 #### ⚠️ Pushed to `main`
