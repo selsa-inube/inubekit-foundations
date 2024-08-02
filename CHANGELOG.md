@@ -1,3 +1,15 @@
+# v5.6.0 (Fri Aug 02 2024)
+
+#### 🚀 Enhancement
+
+- Update dispatch-update.yml [#85](https://github.com/selsa-inube/inubekit-foundations/pull/85) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v5.5.1 (Fri Aug 02 2024)
 
 #### ⚠️ Pushed to `main`
