@@ -1,0 +1,23 @@
+name: Dispatch Update
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Update in Dependent Projects
+        run: |
+          REPOS=(
+            "selsa-inube/inubekit-icon"
+          )
+
+          for REPO in "${REPOS[@]}"; do
+            curl -X POST \
+              -H "Accept: application/vnd.github.v3+json" \
+              -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+              https://api.github.com/repos/$REPO/dispatches \
+              -d '{"event_type":"update-foundations"}'
+          done
