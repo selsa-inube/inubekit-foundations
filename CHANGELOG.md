@@ -1,3 +1,15 @@
+# v5.5.0 (Fri Aug 02 2024)
+
+#### 🚀 Enhancement
+
+- Update README.md [#84](https://github.com/selsa-inube/inubekit-foundations/pull/84) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v5.4.0 (Fri Aug 02 2024)
 
 #### 🚀 Enhancement
