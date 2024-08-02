@@ -84,7 +84,7 @@ To start using the tokens, please follow these steps:
 
 ```js
   "dependencies": {
-    "@inubekit/foundations": "^5.2.15"
+    "@inubekit/foundations": "^5.2.16"
     ...
     }
 
