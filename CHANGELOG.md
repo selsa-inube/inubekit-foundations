@@ -1,3 +1,15 @@
+# v5.2.1 (Fri Aug 02 2024)
+
+#### ⚠️ Pushed to `main`
+
+- feat(githubActions): update in order to include dispatch-update ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v5.2.0 (Thu Aug 01 2024)
 
 #### 🚀 Enhancement
