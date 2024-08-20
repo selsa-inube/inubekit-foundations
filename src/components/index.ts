@@ -11,6 +11,7 @@ import { icon } from "./icon";
 import { input } from "./input";
 import { label } from "./label";
 import { link } from "./link";
+import { menu } from "./menu";
 import { nav } from "./nav";
 import { palette } from "./palette";
 import { sectionMessage } from "./sectionmessage";
@@ -37,6 +38,7 @@ const inube = {
   input,
   label,
   link,
+  menu,
   nav,
   palette,
   sectionMessage,
