@@ -1,3 +1,15 @@
+# v5.7.0 (Tue Aug 20 2024)
+
+#### 🚀 Enhancement
+
+- Add Menu Tokens to Foundations [#86](https://github.com/selsa-inube/inubekit-foundations/pull/86) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v5.6.1 (Fri Aug 02 2024)
 
 #### ⚠️ Pushed to `main`
