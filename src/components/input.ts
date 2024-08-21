@@ -27,24 +27,19 @@ export const input = {
     },
   },
   message: {
-    color: {
-      regular: palette.red.R400,
-    },
+    appearance: 'danger'
   },
   required: {
-    color: {
-      regular: palette.red.R400,
-      disabled: palette.neutral.N70,
-    },
+    appearance: 'danger'
   },
-  optionList: {
+  option: {
     appearance: {
       regular: "dark",
-      expanded: "primary",
+      hover: "primary",
     },
     background: {
-      selected: palette.neutral.N30,
-      expanded: palette.neutral.N0,
+      regular: palette.neutral.N30,
+      hover: palette.neutral.N0,
     }
   }
 };
