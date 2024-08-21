@@ -1,3 +1,15 @@
+# v5.8.1 (Wed Aug 21 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update input.ts ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v5.8.0 (Wed Aug 21 2024)
 
 #### 🚀 Enhancement
