@@ -38,8 +38,8 @@ export const input = {
       hover: "primary",
     },
     background: {
-      regular: palette.neutral.N30,
-      hover: palette.neutral.N0,
+      regular: palette.neutral.N0,
+      hover: palette.neutral.N30,
     }
   }
 };
