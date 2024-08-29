@@ -14,6 +14,7 @@ import { link } from "./link";
 import { menu } from "./menu";
 import { nav } from "./nav";
 import { palette } from "./palette";
+import { progressbar } from "./progressbar";
 import { sectionMessage } from "./sectionmessage";
 import { skeleton } from "./skeleton";
 import { spinner } from "./spinner";
@@ -41,6 +42,7 @@ const inube = {
   menu,
   nav,
   palette,
+  progressbar,
   sectionMessage,
   skeleton,
   spinner,
