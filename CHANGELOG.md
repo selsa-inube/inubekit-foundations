@@ -1,3 +1,15 @@
+# v5.9.0 (Thu Aug 29 2024)
+
+#### 🚀 Enhancement
+
+- Add ProgressBar Tokens to Update Design System [#88](https://github.com/selsa-inube/inubekit-foundations/pull/88) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v5.8.1 (Wed Aug 21 2024)
 
 #### ⚠️ Pushed to `main`
