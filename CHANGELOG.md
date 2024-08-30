@@ -1,3 +1,15 @@
+# v5.10.0 (Fri Aug 30 2024)
+
+#### 🚀 Enhancement
+
+- Add `RadioField` Tokens to Design System [#89](https://github.com/selsa-inube/inubekit-foundations/pull/89) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v5.9.0 (Thu Aug 29 2024)
 
 #### 🚀 Enhancement
