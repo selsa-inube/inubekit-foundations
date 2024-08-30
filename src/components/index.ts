@@ -15,6 +15,7 @@ import { menu } from "./menu";
 import { nav } from "./nav";
 import { palette } from "./palette";
 import { progressbar } from "./progressbar";
+import { radiofield } from "./radiofield";
 import { sectionMessage } from "./sectionmessage";
 import { skeleton } from "./skeleton";
 import { spinner } from "./spinner";
@@ -43,6 +44,7 @@ const inube = {
   nav,
   palette,
   progressbar,
+  radiofield,
   sectionMessage,
   skeleton,
   spinner,
