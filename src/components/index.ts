@@ -2,6 +2,7 @@ import { assisted } from "./assisted";
 import { blanket } from "./blanket";
 import { breadcrumbs } from "./breadcrumbs";
 import { button } from "./button";
+import { checkbox } from "./checkbox";
 import { countdownBar } from "./countdownbar";
 import { divider } from "./divider";
 import { fieldset } from "./fieldset";
@@ -32,6 +33,7 @@ const inube = {
   breadcrumbs,
   button,
   countdownBar,
+  checkbox,
   divider,
   fieldset,
   fullscreenNav,
