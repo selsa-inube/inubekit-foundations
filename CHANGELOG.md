@@ -1,3 +1,15 @@
+# v5.11.2 (Mon Sep 02 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update checkbox.ts ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v5.11.1 (Mon Sep 02 2024)
 
 #### ⚠️ Pushed to `main`
