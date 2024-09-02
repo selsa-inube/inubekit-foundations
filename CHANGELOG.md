@@ -1,3 +1,15 @@
+# v5.11.0 (Mon Sep 02 2024)
+
+#### 🚀 Enhancement
+
+- Add `Checkbox` Tokens to Design System [#90](https://github.com/selsa-inube/inubekit-foundations/pull/90) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v5.10.0 (Fri Aug 30 2024)
 
 #### 🚀 Enhancement
