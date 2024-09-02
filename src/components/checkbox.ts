@@ -21,6 +21,7 @@ const checkbox = {
  },
  vector: {
   color: {
+    indeterminate: palette.neutral.N0,
     checked: palette.neutral.N0,
     invalid: palette.neutral.N0,
     disabled: palette.neutral.N60,
