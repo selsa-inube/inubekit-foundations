@@ -1,3 +1,15 @@
+# v5.11.3 (Tue Oct 01 2024)
+
+#### ⚠️ Pushed to `main`
+
+- fix: remove individual tokens according to new directive ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v5.11.2 (Mon Sep 02 2024)
 
 #### ⚠️ Pushed to `main`
