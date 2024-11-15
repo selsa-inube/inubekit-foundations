@@ -1,5 +1,10 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
+# Linters
 npm run lint
 npx lint-staged
+
+# Build
+rm -rf build
+npm run build
