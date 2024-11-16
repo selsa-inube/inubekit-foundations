@@ -1,3 +1,12 @@
+# v5.11.4 (Fri Nov 15 2024)
+
+- chore: uninstall auto
+- chore: update auto dev dependency
+- docs: update README
+- docs: simplify CHANGELOG
+- feat: add build script in pre-commit hook
+- chore: remove github actions workflows
+
 # v5.11.3 (Tue Oct 01 2024)
 
 - fix: remove individual tokens according to new directive
