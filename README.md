@@ -29,3 +29,15 @@ It is vital to follow the structure, since the component expect to extract each 
 That new structure could be added directly inside the particular project that needs new values, or by creating a service that returns the data structure depending on some conditions --for example, to make the values dependent per client or user of each specific app--.
 
 To make the personalization work, it would need a particular way of making these variables accessible for all components. In this design system, the way is to use the `<ThemeProvider />` component that is exported from **styled-components**. This also means that the components of the system are built using **styled-components** as its CSS-in-JS approach to create and style its components.
+
+### Typography
+
+This part of the structure is shared among multiple components that need to render some texts (`<Text />`, `<Button />`, `<Link />`, etc). If you need to change the font-face used in an app, keep in mind that adjusting the values of typography tokens is just one of a two-step process.
+
+1. You must change the typography tokens following the structure provided to use the new desired font(s).
+2. You must install the font in your application, otherwise the application will try to use the fallback fonts or directly use the default font of the browser if no fallback is provided.
+
+Options for installing fonts:
+
+1. You can manually install the font in your app by using links in your index.html or by installing it directly with @font-face rules in CSS.
+2. You can use the `useFonts()` hook provided by [@inubekit/hooks](https://www.npmjs.com/package/@inubekit/hooks) to install fonts dynamically in runtime (useful when your single application must support multiple clients, each one with a different font).
