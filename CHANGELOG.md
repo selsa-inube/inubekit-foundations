@@ -1,3 +1,10 @@
+# v5.11.4 (Thu Nov 28 2024)
+
+This patch just extends the documentation about how to personalize and install new fonts in an applications and fixes the pre-commit hook to delete the dist/ build directory before building the library again.
+
+- docs: update readme with info about installing fonts
+- fix: remove dist/ before build in pre-commit
+
 # v5.11.4 (Fri Nov 15 2024)
 
 - chore: uninstall auto
