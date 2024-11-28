@@ -13,8 +13,7 @@
     "preview": "vite preview",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
-    "prepare": "husky install",
-    "publish": "rm -rf dist && npm run build && npm publish"
+    "prepare": "husky install"
   },
   "exports": {
     ".": {
