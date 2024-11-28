@@ -1,4 +1,10 @@
+# v5.11.6 (Thu Nov 28 2024)
+
+- feat: add publish script in package.json to control build process
+
 # v5.11.5 (Thu Nov 28 2024)
+
+❌ This release was testing a new publish script that worked with errors. Skip this version.
 
 This patch just extends the documentation about how to personalize and install new fonts in an applications and fixes the pre-commit hook to delete the dist/ build directory before building the library again.
 
